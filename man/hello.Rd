@@ -7,12 +7,20 @@
 hello(txt = "world")
 }
 \arguments{
+<<<<<<< Updated upstream
 \item{txt}{Character (length = 1).
 This argument will print the word input after the word, "Hello"}
 }
 \description{
 This function will print out the words, "Hello
 world"
+=======
+\item{txt}{Character (length = 1)
+This argument will print the word input after the word, "Hello".}
+}
+\description{
+This function will print out the words, "Hello World!"
+>>>>>>> Stashed changes
 }
 \examples{
 # Print the word "Hello, y'all"
@@ -20,5 +28,9 @@ hello(txt = "y'all")
 
 }
 \author{
+<<<<<<< Updated upstream
 Alexander Christensen <alexpaulchristensen@gmail.com>
+=======
+Giwon Bahg <giwon.bahg.1@gmail.com>
+>>>>>>> Stashed changes
 }
