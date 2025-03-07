@@ -1,7 +1,7 @@
-Package: template
+Package: funR
 Type: Package
-Title: Concise Summary of What the Package Does
-Version: 1.0
+Title: A Place to Have Fun in R
+Version: 0.0.1
 Date: 2024-03-04
 Author: Your Name
 Maintainer: Your Name <your@email.com>
