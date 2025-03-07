@@ -1,27 +1,13 @@
-<<<<<<< Updated upstream
 Package: funR
-=======
-Package: APHFR
->>>>>>> Stashed changes
 Type: Package
 Title: A Place to Have Fun in R
 Version: 0.0.1
 Date: 2025-03-07
-<<<<<<< Updated upstream
-Author: Alexander Christensen
-Maintainer: Alexander Christensen <alexpaulchristensen@gmail.com>
-Description: This package is a template R package that we're building in an R package workshop. It's really fun!
-=======
 Author: Giwon Bahg
 Maintainer: Giwon Bahg <giwon.bahg.1@gmail.com>
 Description: CRAN will want me to elaborate on what I did on this package. This package is a template R package that we're building in an R package workshop. It's really fun!
->>>>>>> Stashed changes
 Imports: tidyverse
 Suggests: fungible
 License: GPL (>= 2)
 Encoding: UTF-8
-<<<<<<< Updated upstream
 RoxygenNote: 7.3.2
-=======
-RoxygenNote: 7.3.2
->>>>>>> Stashed changes
