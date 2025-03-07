@@ -2,10 +2,12 @@ Package: funR
 Type: Package
 Title: A Place to Have Fun in R
 Version: 0.0.1
-Date: 2024-03-04
-Author: Your Name
-Maintainer: Your Name <your@email.com>
-Description: More about what it does (maybe more than one line).
+Date: 2025-03-07
+Author: Alexander Christensen
+Maintainer: Alexander Christensen <alexpaulchristensen@gmail.com>
+Description: This package is a template R package that we're building in an R package workshop. It's really fun!
+Imports: tidyverse
+Suggests: fungible
 License: GPL (>= 2)
 Encoding: UTF-8
-RoxygenNote: 7.3.1
+RoxygenNote: 7.3.2

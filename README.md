@@ -6,3 +6,7 @@ Create-an-R-package Workshop Template Package
 ## [10 Software Development Commandments](https://docs.google.com/presentation/d/1yMeB2nMjTtiFpOfuWmXMjqsx89m48znHXiCbPZIy5zI/edit?usp=sharing)
 
 ## [Versioning](https://medium.com/@kodegasm.id/semantic-versioning-in-software-engineering-8bc42c61364b)
+
+## [CRAN Package Status](https://r-hub.github.io/cransays/articles/dashboard.html)
+
+## [CRAN Package Submission](https://cran.r-project.org/submit.html)
